@@ -2,19 +2,19 @@
   "layers": [
     {
       "type": "LayerGroup",
-      "title": "ƒIƒŠƒpƒ‰Ž{Ý_GISŠw‰ïƒXƒvƒŠƒ“ƒOƒXƒN[ƒ‹",
+      "title": "ã‚ªãƒªãƒ‘ãƒ©æ–½è¨­_GISå­¦ä¼šã‚¹ãƒ—ãƒªãƒ³ã‚°ã‚¹ã‚¯ãƒ¼ãƒ«",
       "toggleall": false,
       "entries": [
         {
           "type": "Layer",
           "id": "sample1",
-          "title": "ƒTƒ“ƒvƒ‹geojson",
-          "url": "./data/’n—‰@ŽÀK”z•z—p/ƒIƒŠƒpƒ‰Ž{Ý_GISŠw‰ïƒXƒvƒŠƒ“ƒOƒXƒN[ƒ‹.geojson",
+          "title": "ã‚µãƒ³ãƒ—ãƒ«geojson",
+          "url": "./data/ã‚ªãƒªãƒ‘ãƒ©æ–½è¨­_GISå­¦ä¼šã‚¹ãƒ—ãƒªãƒ³ã‚°ã‚¹ã‚¯ãƒ¼ãƒ«.geojson",
           "cocotile": true,
           "minZoom": 2,
           "maxZoom": 18,
           "legendUrl": "",
-          "html": "‚±‚Ìƒtƒ@ƒCƒ‹‚Ì–}—á‚â‰ðà‚ð‘‚«ž‚ß‚Ü‚·B<br><a target='_blank' href=''>ƒŠƒ“ƒN‚ÌÝ’è‚à‰Â”\‚Å‚·B</a>"
+          "html": "ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ã®å‡¡ä¾‹ã‚„è§£èª¬ã‚’æ›¸ãè¾¼ã‚ã¾ã™ã€‚<br><a target='_blank' href=''>ãƒªãƒ³ã‚¯ã®è¨­å®šã‚‚å¯èƒ½ã§ã™ã€‚</a>"
         }
       ]
     }
